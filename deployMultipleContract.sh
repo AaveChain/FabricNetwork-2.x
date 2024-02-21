@@ -50,7 +50,7 @@ presetup() {
 CHANNEL_NAME="mychannel"
 CC_RUNTIME_LANGUAGE="golang"
 VERSION="1"
-SEQUENCE="1"
+SEQUENCE="2"
 CC_SRC_PATH="./artifacts/src/github.com/multicontracts_cc/go"
 CC_NAME="Multicontracts_cc"
 

@@ -188,3 +188,6 @@ mychannel.block
 sys-channel.block
 artifacts/ca-operations/Revocation/user_cert_base64
 test.tar.gz
+
+
+docker_file
